@@ -1,0 +1,4 @@
+vpc= "172.37.0.0/16"
+env= "dev"
+countin= 2
+region= "us-east-1"

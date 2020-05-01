@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"myvpc","Source":"../modules/vpc","Dir":"../modules/vpc"},{"Key":"dnsroute53","Source":"../modules/dns","Dir":"../modules/dns"},{"Key":"","Source":"","Dir":"."},{"Key":"loadbalancer","Source":"../modules/lb","Dir":"../modules/lb"}]}
